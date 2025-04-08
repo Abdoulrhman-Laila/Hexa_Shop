@@ -1,4 +1,4 @@
 module.exports = {
     output: 'export',
-    basePath: '/Hexa_Shop',
+    basePath: 'https://github.com/Abdoulrhman-Laila/Hexa_Shop/',
   }
